@@ -1,7 +1,8 @@
 # Moving Your Project to GitHub
 
 This class will show you the many options you have available when moving a project to GitHub.
-# Pasos dados
+
+# Carga de un proyecto que ya está hospedado en un sistema de control de versiones. Pasos
 1.- Crear un nuevo repositorio “move”, para importar un proyecto existente.
 2.- En el repositorio creado, ir a la pestaña code
 3.- Importar el código "import code"
